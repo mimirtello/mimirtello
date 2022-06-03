@@ -1,6 +1,6 @@
 ### Hi there 👋
 Seja bem vindo(a) ao meu Github!
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/84ad8c87888907.5dc5771740de7.gif">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c88a6d87888907.5dc57717418ef.gif">
 <!--
 **mimirtello/mimirtello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
