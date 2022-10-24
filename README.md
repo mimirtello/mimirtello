@@ -12,7 +12,8 @@ Developer
 <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </div>
-##
+<br>
+<br>
 <div>
 <a href="https://github.com/mimirtello">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimirtello&layout=compact&langs_count=7&theme=dracula"/>
